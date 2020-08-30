@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{12EF43BC-54BB-441B-B7B5-DBF5245069C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Debug|x64.ActiveCfg = Debug|x64
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Debug|x64.Build.0 = Debug|x64
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Release|x64.ActiveCfg = Release|x64
+		{12EF43BC-54BB-441B-B7B5-DBF5245069C0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B6FBA7-E2E2-4E20-BA69-5A6AE0A95FFD}
+	EndGlobalSection
+EndGlobal
